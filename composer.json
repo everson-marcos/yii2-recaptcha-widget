@@ -1,5 +1,4 @@
 {
-    "version": "2.1.2",
     "name": "everson-marcos/yii2-recaptcha-widget",
     "description": "Yii2 Google reCAPTCHA v2 and v3 widget",
     "keywords": ["yii2", "captcha", "recaptcha", "google", "widget"],
