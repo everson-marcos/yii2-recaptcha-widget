@@ -35,5 +35,7 @@
         "psr-4": {
             "himiklab\\yii2\\recaptcha\\tests\\": "tests/"
         }
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": false
 }
